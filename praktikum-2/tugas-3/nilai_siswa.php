@@ -42,6 +42,7 @@
     <button name="proses" type="submit" class="btn btn-primary" >Kirim</button>
     </div>
   </div>
+</div>
   
 </form>
 <?php

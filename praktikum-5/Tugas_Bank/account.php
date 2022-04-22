@@ -25,9 +25,9 @@
 <tbody>        
 <?php
     include_once 'class_bankAccount.php';
-      $customer1 = new BankAccount('C001', 6000000, 'Dafa');
-      $customer2 = new BankAccount('C002', 5350000, 'Azka');
-      $customer3 = new BankAccount('C003',2500000, 'Fauzan');
+      $customer1 = new BankAccount('C001', 6000000, 'Ahmad');
+      $customer2 = new BankAccount('C002', 5350000, 'Budi');
+      $customer3 = new BankAccount('C003',2500000, 'Kurniawan');
     $array1 = [$customer1, $customer2, $customer3];   
       $customer1->deposit(1000000);
       $customer1->transfer($customer2, 500000);

@@ -12,7 +12,7 @@
     <title>Data Predikat Mahasiwa</title>
   </head>
   <body>
-      <div class="container">
+  <div class="container">
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <div class="container-fluid">
     <a class="navbar-brand" href="#">WEB02</a>
@@ -60,6 +60,7 @@
             <li><a class="dropdown-item" href="#">Another action</a></li>
             <li><a class="dropdown-item" href="#">Something else here</a></li>
           </ul>
+  </div>
   </div>
 </nav>
 
@@ -142,6 +143,7 @@
         <li class="page-item"><a class="page-link" href="#">1</a></li>
         <li class="page-item"><a class="page-link" href="#">>></a></li>
         </ul>
+      </div>
       </div>
       </div>
 
